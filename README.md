@@ -1,4 +1,4 @@
-Customer Segmentation Clustering Project
+#Customer Segmentation Clustering Project
 Project Overview:
 
 I conducted a comprehensive Customer Segmentation Clustering project using K-Means clustering and Google Colab to gain valuable insights from my customer data. This project involved in-depth data analysis, including exploratory data analysis (EDA), data preprocessing, and the application of K-Means clustering to uncover distinct customer segments based on selected features. My primary goal was to utilize these insights for targeted marketing and strategic decision-making.
