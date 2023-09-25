@@ -30,8 +30,6 @@ Matplotlib
 Jupyter Notebook
 Acknowledgments:
 
-I would like to express my gratitude to the entire project team for their dedicated efforts in conducting this customer segmentation clustering project. My commitment to data analysis and insightful interpretation was instrumental in achieving my goals.
-
 Contact:
 
 For inquiries or further information about this project, please contact me at salome.petriashvili2002@gmail.com.
